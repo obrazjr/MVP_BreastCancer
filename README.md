@@ -1,5 +1,4 @@
-**Estudante:** OTÁVIO BRAZ RIBEIRO JUNIOR  
-**Matrícula:** 4052025001133  
+
 
 **Curso:** Ciência de Dados e Analytics – 360h  
 **Unidade:** PUC-Rio – 100% Online  
